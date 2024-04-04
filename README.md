@@ -1,1 +1,3 @@
-# cognitive-science-wordcloud
+# Cognitive Science Wordcloud
+
+Not as informagtive as one would hope for :)
